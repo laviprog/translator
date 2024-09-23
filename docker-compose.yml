@@ -1,0 +1,9 @@
+services:
+  translator:
+    build:
+      context: .
+    container_name: translator
+    env_file:
+      - .env
+    ports:
+      - 127.0.0.1:80:80

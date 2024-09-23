@@ -1,0 +1,10 @@
+fastapi
+redis
+types-redis
+uvicorn
+requests
+deep_translator
+srt
+python-multipart
+python-dotenv
+pytest
