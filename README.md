@@ -1,8 +1,7 @@
 # TRANSLATOR
 
 TRANSLATOR is an API for translating text, subtitles in SRT format, and SRT files.
-
-## Table of Contents
+## 
 - [Getting Started](#getting-started)
 - [Running Tests](#running-tests)
 - [Running The Application](#running-the-application)
